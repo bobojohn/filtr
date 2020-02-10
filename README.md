@@ -1,1 +1,1 @@
-# filtr
+# filtr, reduce, map
